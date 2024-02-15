@@ -1,0 +1,38 @@
+{
+    "places": [
+      {
+        "name": "Taj Mahal",
+        "city": "Agra",
+        "state": "Uttar Pradesh",
+        "latitude": 27.1751,
+        "longitude": 78.0421
+      },
+      {
+        "name": "Jaisalmer Fort",
+        "city": "Jaisalmer",
+        "state": "Rajasthan",
+        "latitude": 26.9157,
+        "longitude": 70.9083
+      },
+      {
+        "name": "Varanasi",
+        "state": "Uttar Pradesh",
+        "latitude": 25.3176,
+        "longitude": 82.9739
+      },
+      {
+        "name": "Hampi",
+        "state": "Karnataka",
+        "latitude": 15.3350,
+        "longitude": 76.4600
+      },
+      {
+        "name": "Mysore Palace",
+        "city": "Mysore",
+        "state": "Karnataka",
+        "latitude": 12.3051,
+        "longitude": 76.6551
+      }
+    ]
+  }
+  

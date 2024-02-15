@@ -1,0 +1,23 @@
+.search {
+    position: absolute;
+}
+
+.list {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+    border-top: 0px;
+    border-radius: 2px;
+}
+
+.list button {
+    all: unset;
+    padding: 8px;
+    background-color: grey;
+    border-bottom: 1px solid lightgray;
+}
+
+.list button:last-child {
+    border-bottom: none;
+}
